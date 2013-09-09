@@ -1,0 +1,7 @@
+name: Matthew Fram
+description: Matthew Fram is a future graduate from Coastal Carolina University with a degree in Graphic Design
+safe: true
+
+markdown: redcarpet
+pygments: true
+permalink: pretty
